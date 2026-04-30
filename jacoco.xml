@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<report name="Test"> 
+  <package name="com/example"> 
+    <sourcefile name="Main.java"> 
+      <counter type="INSTRUCTION" missed="5" covered="15"/> 
+    </sourcefile> 
+    <sourcefile name="Utils.java"> 
+      <counter type="INSTRUCTION" missed="20" covered="10"/> 
+    </sourcefile> 
+  </package> 
+</report>
